@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Roots Overlay
 // @namespace    http://tampermonkey.net/
-// @version      2.3
+// @version      2.4
 // @description  root's overlay
 // @author       Root
 // @match        *://*.jklm.fun/*
